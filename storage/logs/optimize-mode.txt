@@ -1,0 +1,2003 @@
+[2024-10-06T11:35:16]: Optimization session started
+[2024-10-06T11:35:16]: Generating 500 population size (random DNAs) using 2 CPU cores
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 787):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 803):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 826):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 842):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 865):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 881):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 904):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 920):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 943):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 959):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 982):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 998):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1021):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1037):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1060):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1076):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1099):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1115):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1138):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1154):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1177):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1193):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1216):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1232):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1255):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1271):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1294):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1310):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1333):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1349):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1372):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1388):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1411):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1427):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1450):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1466):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1489):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1505):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1528):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1544):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1567):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1583):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1606):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1622):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1645):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1661):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1684):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1700):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1723):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1739):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1762):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1778):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1801):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1817):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1840):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1856):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1879):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1895):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1918):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1934):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1957):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1973):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 1996):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2012):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2035):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2051):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2074):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2090):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2113):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2129):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2152):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2168):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2191):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2207):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2230):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2246):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2269):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2285):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2308):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2324):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2347):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2363):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2386):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2402):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2425):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2441):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2464):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2480):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2503):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2519):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2542):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2558):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2581):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2597):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2620):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2636):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2659):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2675):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2698):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2714):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2737):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2753):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2776):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2792):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2815):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2831):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2854):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2870):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2893):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2909):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2932):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2948):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2971):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 2987):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3010):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3026):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3049):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3065):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3088):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3104):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3127):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3143):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3166):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3182):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3205):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3221):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3244):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3260):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3283):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3299):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3322):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3338):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3361):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3377):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3400):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3416):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3439):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3455):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3478):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3494):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3517):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3533):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3556):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3572):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3595):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3611):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3634):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3650):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3673):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3689):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3712):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3728):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3751):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3767):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3790):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3806):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3829):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3845):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3868):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3884):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3907):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3923):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3946):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3962):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 3985):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4001):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4024):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4040):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4063):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4079):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4102):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4118):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4141):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4157):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4180):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4196):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4219):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4235):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4258):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4274):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4297):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4313):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4336):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4352):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4375):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4391):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4414):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4430):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4453):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4469):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4492):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4508):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4531):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4547):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4570):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4586):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4609):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4625):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4648):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4664):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4687):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4703):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4726):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4742):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4765):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4781):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4804):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4820):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4843):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4859):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4882):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4898):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4921):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4937):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4960):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4976):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 4999):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5015):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5038):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5054):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5077):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5093):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5116):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5132):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5155):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5171):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5194):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5210):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5233):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5249):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5272):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5288):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5311):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5327):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5350):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5366):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5389):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5405):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5428):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5444):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5467):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5483):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5506):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5522):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5545):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5561):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5584):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5600):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5623):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5639):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5662):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5678):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5701):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5717):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5740):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5756):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5779):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5795):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5818):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5834):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5857):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5873):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5896):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5912):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5935):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5951):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5974):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 5990):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6013):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6029):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6052):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6068):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6091):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6107):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6130):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6146):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6169):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6185):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6208):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6224):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6247):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6263):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6286):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6302):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6325):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6341):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6364):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6380):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6403):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6419):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6442):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6458):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6481):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6497):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6520):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6536):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6559):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6575):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6598):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6614):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6637):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6653):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6676):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6692):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6715):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6731):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6754):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6770):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6793):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6809):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6832):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6848):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6871):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6887):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6910):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6926):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6949):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6965):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 6988):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7004):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7027):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7043):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7066):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7082):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7105):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7121):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7144):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7160):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7183):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7199):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7222):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7238):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7261):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7277):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7300):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7316):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7339):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7355):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7378):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7394):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7417):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7433):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7456):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7472):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7495):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7511):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7534):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7550):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7573):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7589):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7612):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7628):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7651):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7667):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7690):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7706):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7729):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7745):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7768):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7784):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7807):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7823):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7846):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7862):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7885):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7901):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7924):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7940):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7963):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 7979):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8002):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8018):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8041):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8057):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8080):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8096):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8119):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8135):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8158):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8174):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8197):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8213):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8236):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8252):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8275):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8291):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8314):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8330):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8353):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8369):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8392):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8408):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8431):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8447):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8470):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8486):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8509):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8525):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8548):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8564):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8587):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8603):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8626):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8642):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8665):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8681):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8704):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8720):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8743):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8759):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8782):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8798):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8821):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8837):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8860):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8876):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8899):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8915):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8938):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8954):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8977):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 8993):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9016):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9032):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9055):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9071):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9094):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9110):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9133):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9149):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9172):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9188):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9211):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9227):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9250):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9266):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9289):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9305):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9328):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9344):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9367):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9383):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9406):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9422):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9445):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9461):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9484):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9500):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9523):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9539):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9562):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9578):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9601):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9617):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9640):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9656):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9679):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9695):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9718):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9734):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9757):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9773):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9796):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9812):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9835):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9851):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9874):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9890):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9913):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9929):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9952):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9968):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 9991):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10007):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10030):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10046):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10069):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10085):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10108):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10124):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10147):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10163):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10186):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10202):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10225):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10241):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10264):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10280):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10303):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10319):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10342):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10358):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10381):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10397):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10420):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10436):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10459):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10475):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10498):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2023-01-01T01:00:00]: Exception in strategy execution:
+ {'filename': '/jesse-docker/jesse/modes/optimize_mode/fitness.py', 'line': 39, 'name': 'get_fitness', 'type': 'RouteNotFound', 'message': "Data route is required but missing: symbol='BTC-USDT', timeframe='1D'"}
+[2023-01-01T01:00:00]: process failed (ID: 10514):
+Data route is required but missing: symbol='BTC-USDT', timeframe='1D'
+[2024-10-06T11:35:16]: Too many errors! less than half of the expected population size could be generated. Only 0 individuals from planned 500 are usable. Read more at https://jesse.trade/help/faq/bad-optimization-results-or-valueerror-too-many-errors-less-than-half-of-the-expected-population-size-could-be-generated
