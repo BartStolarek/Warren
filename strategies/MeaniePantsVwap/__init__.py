@@ -20,27 +20,15 @@ class MeaniePantsVwap(Strategy):
 
     @property
     @cached
-    def atr(self):
-        return ta.atr(self.candles, period=14, sequential=True)
-
-    @property
-    @cached
-    def atr_daily(self):
-        daily_candles = self.get_candles(self.exchange, self.symbol, "1D")
-        atr = ta.atr(daily_candles, period=2, sequential=True)
-        return atr
-
-    @property
-    @cached
-    def supertrend_daily(self):
-        daily_candles = self.get_candles(self.exchange, self.symbol, "1D")
-        trend = ta.supertrend(daily_candles, period=2, factor=3, sequential=False).trend
-        if trend < self.price:
-            return 1
-        elif trend > self.price:
+    def supertrend(self):
+        st = ta.supertrend(self.candles, period=30, factor=10, sequential=False).trend
+        if st > self.price:
             return -1
+        elif st < self.price:
+            return 1
         else:
             return 0
+
 
     @property
     @cached
@@ -117,18 +105,18 @@ class MeaniePantsVwap(Strategy):
         if self.is_short:
             if self.price >= self.vwap_bands.upper_bands[2][-1] and not self.band_position['third']:
                 self.band_position['third'] = True
-                self.increase_position_size(0.5)  # Increase by 50%
+                self.increase_position_size(0.2)  # Increase by 50%
             elif self.price >= self.vwap_bands.upper_bands[3][-1] and not self.band_position['fourth']:
                 self.band_position['fourth'] = True
-                self.increase_position_size(0.5)  # Increase by 50%
+                self.increase_position_size(0.2)  # Increase by 50%
 
         if self.is_long:
             if self.price <= self.vwap_bands.lower_bands[2][-1] and not self.band_position['third']:
                 self.band_position['third'] = True
-                self.increase_position_size(0.5)  # Increase by 50%
+                self.increase_position_size(0.2)  # Increase by 50%
             elif self.price <= self.vwap_bands.lower_bands[3][-1] and not self.band_position['fourth']:
                 self.band_position['fourth'] = True
-                self.increase_position_size(0.5)  # Increase by 50%
+                self.increase_position_size(0.2)  # Increase by 50%
 
         if (self.is_long and self.price >= self.vwap_bands.vwap[-1]) or \
             (self.is_short and self.price <= self.vwap_bands.vwap[-1]):
